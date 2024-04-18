@@ -1,0 +1,6 @@
+
+
+cargo new --vcs none hof-examples
+
+
+git add . && cc 'iterator example'
