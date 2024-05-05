@@ -1,2 +1,11 @@
 [workspace]
-members = [ "fetching-data-example", "files-examples","func-examples", "generic-examples", "hof-examples", "iterator-examples", "macros-examples", "scraping-example"]
+members = [ "data-redis-example",
+    "fetching-data-example",
+    "files-examples",
+    "func-examples",
+    "generic-examples",
+    "hof-examples",
+    "iterator-examples",
+    "macros-examples",
+    "scraping-example",
+]

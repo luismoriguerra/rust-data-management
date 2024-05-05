@@ -3,6 +3,9 @@
 cargo new --vcs none hof-examples
 
 
+cargo new --vcs none data-redis-example
+
+
 git add . && cc 'iterator example'
 
 rustup update nightly
